@@ -1,8 +1,8 @@
 # Portfolio
 
 ### [Project 1: Interactive Shiny App for Exploratory Data Analysis on Netflix Shows and Movies](https://hasiegler.shinyapps.io/netflix_analysis/)
-* Interactive app that allows the user to perform an EDA on Netflix Shows and Movies using interactive graphs and tables. Data manipulation on dataset from kaggle.com. 
-
+* Interactive app that allows the user to perform an EDA on Netflix Shows and Movies using interactive graphs and tables. Data manipulation on dataset from kaggle.com. [Link to GitHub Code](https://github.com/hasiegler/Netflix_Analysis/blob/master/app.R)
+ 
 ### [Project 2: Visualizing Space Station Pass Times via API](https://rpubs.com/hasiegler/898179)
 * Used the Open-Notify API to create an interactive map that shows when the International Space Station will pass over the US state capitals. [Link to GitHub Repository](https://github.com/hasiegler/Space-Station-API)
 

@@ -1,7 +1,7 @@
-<p align="center">
 # Portfolio of Data Science Projects
 
 ## Henry Siegler [LinkedIn](https://www.linkedin.com/in/henry-siegler-51439b223/)
+<p align="center">
 <img src="https://github.com/hasiegler/Portfolio/blob/main/Images/IMG_1644.jpg?raw=true" width=200>
  </p>
 

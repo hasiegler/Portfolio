@@ -1,7 +1,9 @@
 # Portfolio of Data Science Projects
 
 ## Henry Siegler [LinkedIn](https://www.linkedin.com/in/henry-siegler-51439b223/)
+<p align="center">
 <img src="https://github.com/hasiegler/Portfolio/blob/main/Images/IMG_1644.jpg?raw=true" width=200>
+ </p>
 
 ### [Project 1: Supercenter Sales Data Analysis in Python and MySQL](https://github.com/hasiegler/Supercenter_Sales/blob/main/supermarket_sales_analysis.ipynb)
 * Data analysis in Python of sales data for a supercenter company in Myanmar. Each row of the dataset contains information for a single shopping run for a given customer, including information such as on who the customer is, the amount they spent, and what they rated their shopping experience. The data is analyzed to find insights that would be of benefit to the company. A SQL database is created and queries are ran to help investigate various questions.

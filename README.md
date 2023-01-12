@@ -9,7 +9,9 @@
 * Data analysis in Python of sales data for a supercenter company. Each row of the dataset contains information for a single shopping run for a given customer, including information such as on who the customer is, the amount they spent, and what they rated their shopping experience. A SQL database is created and queries are ran to help investigate various questions. The customers are segmented into different groups using K-Means clustering and Principal Component Analysis (PCA).
 
 ### [Project 2: Interactive Shiny App for Exploratory Data Analysis on Netflix Shows and Movies](https://hasiegler.shinyapps.io/netflix_analysis/)
-* Interactive app that allows the user to perform an EDA on Netflix Shows and Movies using interactive graphs and tables. The dataset is cleaned and there is data manipulation in each section of the app to find the desired output. [Link to GitHub Code](https://github.com/hasiegler/Netflix_Analysis/blob/master/app.R)
+* Interactive app that allows the user to perform an EDA on Netflix Shows and Movies using interactive graphs and tables. The dataset is cleaned and there is data manipulation in each section of the app to find the desired output. 
+* [Code for the Data Cleaning and Manipulations](https://github.com/hasiegler/Netflix_Analysis/blob/master/data_manipulation.md)
+* [Code for Creating the App](https://github.com/hasiegler/Netflix_Analysis/blob/master/app.R)
  
 ### [Project 3: Creating the K-Means Clustering Algorithm from Scratch](https://rpubs.com/hasiegler/926806)
 * Created the K-means clustering algorithm without using any built in clustering functions, to demonstrate how the algorithm works. I also created a function that saves all of the cluster assignments and centroids for every iteration. This function was used to create an animated visualization of the clustering algorithm iteration by iteration. [Link to GitHub Repository](https://github.com/hasiegler/K_Means_Clustering)

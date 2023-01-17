@@ -6,10 +6,10 @@
  </p>
 
 ### [Project 1: Supercenter Sales Data Analysis and Customer Segmentation in Python and MySQL](https://github.com/hasiegler/Supercenter_Sales/blob/main/supermarket_sales_analysis.ipynb)
-* Data analysis in Python of sales data for a supercenter company. Each row of the dataset contains information for a single shopping run for a given customer, including information such as on who the customer is, the amount they spent, and what they rated their shopping experience. A SQL database is created and queries are ran to help investigate various questions. The customers are segmented into different groups using K-Means clustering and Principal Component Analysis (PCA).
+* Analyzed supercenter sales data to create customer spending habit insights, and clustered customers into different groups using unsupervised learning techniques. A SQL database is created and queries are ran to help investigate various questions.
 
 ### [Project 2: Interactive Shiny App for Exploratory Data Analysis on Netflix Shows and Movies](https://hasiegler.shinyapps.io/netflix_analysis/)
-* Interactive app that allows the user to perform an EDA on Netflix Shows and Movies using interactive graphs and tables. The dataset is cleaned and there is data manipulation in each section of the app to find the desired output. 
+* Created an interactive app that conducts Exploratory Data Analysis on the movies on Netflix, allowing users to select inputs to analyze various characteristics, enabling a deeper understanding of the types of movies on the platform. The dataset is cleaned and there is data manipulation in each section of the app to find the desired output.
 * [Code for the Data Cleaning and Manipulations](https://github.com/hasiegler/Netflix_Analysis/blob/master/data_manipulation.md)
 * [Code for Creating the App](https://github.com/hasiegler/Netflix_Analysis/blob/master/app.R)
  

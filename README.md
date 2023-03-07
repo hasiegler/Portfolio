@@ -22,7 +22,7 @@
 * Created the K-means clustering algorithm without using any built in clustering functions, to demonstrate how the algorithm works. I also created a function that saves all of the cluster assignments and centroids for every iteration. This function was used to create an animated visualization of the clustering algorithm iteration by iteration. 
 * [Link to GitHub Repository](https://github.com/hasiegler/K_Means_Clustering)
 
-### [Interactive Shiny App for Exploratory Data Analysis on Netflix Shows and Movies](https://hasiegler.shinyapps.io/netflix_analysis/)
+### [Interactive App for Exploratory Data Analysis on Netflix Shows and Movies](https://hasiegler.shinyapps.io/netflix_analysis/)
 * Created an interactive app that conducts Exploratory Data Analysis on the movies on Netflix, allowing users to select inputs to analyze various characteristics, enabling a deeper understanding of the types of movies on the platform. The dataset is cleaned and there is data manipulation in each section of the app to find the desired output.
 * [Code for the Data Cleaning and Manipulations](https://github.com/hasiegler/Netflix_Analysis/blob/master/data_manipulation.md)
 * [Code for Creating the App](https://github.com/hasiegler/Netflix_Analysis/blob/master/app.R)
